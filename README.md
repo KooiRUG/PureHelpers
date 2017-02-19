@@ -107,7 +107,7 @@ Returns a `Date` instance or [null] if parsing fails
 --
 `(this module) import (methods2Import, intoNamespace = {})`
 
-It imports [`methods2Import`] (array or object) from [`methods`] (this lib) into namespace [`intoNamespace`]
+It imports [`methods2Import`] \(array or object\) from [`methods`] \(this lib\) into namespace [`intoNamespace`]
 
 [`methods2Import`] May be an array of strings, e.g.  `["methoda", "methodb"]` or an object with method names as keys, e.g. `{methoda: 1, methodb: 2}`
 
